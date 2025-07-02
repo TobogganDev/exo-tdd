@@ -1,0 +1,69 @@
+{
+  "timestamp": "2025-07-02T12:01:18.595050",
+  "localisation": {
+    "latitude": 48.85,
+    "longitude": 2.35,
+    "ville": "Paris"
+  },
+  "resultats": {
+    "jours": [
+      {
+        "date": "2025-06-24",
+        "temperature_moyenne": 22.6,
+        "temperature_min": 13.6,
+        "temperature_max": 29.9,
+        "nombre_mesures": 24
+      },
+      {
+        "date": "2025-06-25",
+        "temperature_moyenne": 25.9,
+        "temperature_min": 18.3,
+        "temperature_max": 35.7,
+        "nombre_mesures": 24
+      },
+      {
+        "date": "2025-06-26",
+        "temperature_moyenne": 22.2,
+        "temperature_min": 18.1,
+        "temperature_max": 26.0,
+        "nombre_mesures": 24
+      },
+      {
+        "date": "2025-06-27",
+        "temperature_moyenne": 23.5,
+        "temperature_min": 19.3,
+        "temperature_max": 27.6,
+        "nombre_mesures": 24
+      },
+      {
+        "date": "2025-06-28",
+        "temperature_moyenne": 24.6,
+        "temperature_min": 18.9,
+        "temperature_max": 29.6,
+        "nombre_mesures": 24
+      },
+      {
+        "date": "2025-06-29",
+        "temperature_moyenne": 25.0,
+        "temperature_min": 18.7,
+        "temperature_max": 30.0,
+        "nombre_mesures": 24
+      },
+      {
+        "date": "2025-06-30",
+        "temperature_moyenne": 28.7,
+        "temperature_min": 20.5,
+        "temperature_max": 35.9,
+        "nombre_mesures": 24
+      }
+    ],
+    "periode": {
+      "temperature_moyenne_totale": 24.7,
+      "temperature_min_totale": 13.6,
+      "temperature_max_totale": 35.9,
+      "nombre_jours": 7,
+      "date_debut": "2025-06-24",
+      "date_fin": "2025-06-30"
+    }
+  }
+}
